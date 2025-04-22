@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { GraduationCap, Mail, MapPin } from "lucide-react";
-import faizImage from "../../../public/faiz.jpeg";
+import faizImage from "../../../public/faiz2.png";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 
@@ -23,7 +23,7 @@ export default function Hero() {
             animate={{ scale: 1 }}
             transition={{ duration: 0.5 }}
             src={faizImage.src}
-            alt="Professor Smith"
+            alt="Faiz Ahmed"
             className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-white shadow-lg"
           />
         </Zoom>
@@ -54,15 +54,15 @@ export default function Hero() {
         >
           <div className="flex items-center gap-2">
             <GraduationCap className="w-5 h-5" />
-            <span>Ph.D. in Computer Science</span>
+            <span>Masters In Computer Application</span>
           </div>
           <div className="flex items-center gap-2">
             <MapPin className="w-5 h-5" />
-            <span>City University</span>
+            <span>Maulana Mazharul Haque</span>
           </div>
           <div className="flex items-center gap-2">
             <Mail className="w-5 h-5" />
-            <span>faizAhmed@gmail.com</span>
+            <span> Faiza018@gmail.com</span>
           </div>
         </motion.div>
       </motion.div>

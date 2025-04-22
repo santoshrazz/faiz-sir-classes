@@ -3,24 +3,17 @@ import { BookOpen } from "lucide-react";
 
 const publications = [
   {
-    title: "Advanced Machine Learning Algorithms in Education",
-    journal: "Journal of Educational Technology",
+    title: "Advanced Accounting class 12th",
+    journal: "Simplified Accounting with simple words",
     year: "2023",
-    citation: "Published in Volume 45, Issue 3, Pages 234-251",
+    citation: "Published in Volume 45, Pages 234-251",
     link: "#",
   },
   {
-    title: "The Impact of AI on Modern Mathematics Education",
-    journal: "International Mathematics Research Papers",
+    title: "The best Mathematics class 11th and 12th",
+    journal: "Simplified Mathematics in simple words",
     year: "2022",
     citation: "Published in Volume 28, Issue 2, Pages 89-112",
-    link: "#",
-  },
-  {
-    title: "Innovative Teaching Methods in Computer Science",
-    journal: "Computer Science Education Review",
-    year: "2021",
-    citation: "Published in Volume 33, Issue 1, Pages 45-67",
     link: "#",
   },
 ];

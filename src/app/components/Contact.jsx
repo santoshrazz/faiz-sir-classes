@@ -28,7 +28,7 @@ export default function Contact() {
                   Email
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  faizsir@gmail.com
+                  Faiza018@gmail.com
                 </p>
               </div>
             </div>
@@ -50,11 +50,9 @@ export default function Contact() {
                   Office
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Walsis e-connect india Pvt Ltd
+                  Alamgang Patna
                 </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  Stanford University
-                </p>
+                <p className="text-gray-600 dark:text-gray-300">Patna City</p>
               </div>
             </div>
 

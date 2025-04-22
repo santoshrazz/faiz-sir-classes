@@ -3,26 +3,25 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Tushar Kumar",
+    name: "Santosh Kumar",
     role: "Former Student, Now Software Engineer at Walsis",
     content:
-      "Faiz sir hamare best sir hai pure patna ke JEE Mains ke liye koi inke jaisa nahi padha sakta likh ke deta hu",
-    image:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&h=100",
+      "Faiz Sir made Maths and Accounts so much easier to understand. Their teaching style is clear, patient, and effective. Highly recommended!",
+    image: "/santosh.jpg",
   },
   {
     name: "Prashant Verma",
     role: "Graduate Student, Stanford University",
     content:
-      "Jalwa hai Faiz sir ka bus patna me hi nahi balki pure bihar me Har jagah. Sir-o me sir only faiz sir",
+      "Learning from Faiz Sir was a game-changer. They simplify tough concepts and make learning enjoyable!",
     image:
       "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&h=100",
   },
   {
-    name: "Shubham Kumar",
-    role: "Doctor At AIIMS Patna",
+    name: "Subhi Sharma",
+    role: "Charted Accounted",
     content:
-      "His innovative teaching approach and real-world examples helped me develop a deeper understanding of mathematical concepts.",
+      "Faiz Sir is an excellent teacher—always clear, supportive, and passionate about Maths and Accounts.",
     image:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&h=100",
   },

@@ -82,11 +82,11 @@ export default function Footer() {
               </a>
             </div>
             <p className="mt-4 text-gray-400">
-              Stanford University
+              AlamGang Patna
               <br />
-              Computer Science Department
+              Mathematics And Accounting
               <br />
-              Stanford, CA 94305
+              AlamGang Patna
             </p>
           </div>
         </div>
